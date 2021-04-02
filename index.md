@@ -1,1 +1,0 @@
-![Picture of me](lacma.JPG)
