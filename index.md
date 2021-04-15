@@ -13,7 +13,7 @@ My favorite Git command is:
 - Drawing
 - Hanging out with friends
 - Listening to music
-- Play tennis (I'm not that good though)
+- Playing tennis (I'm not that good though)
 
 **Programming Languages**
 1. Java
@@ -22,7 +22,7 @@ My favorite Git command is:
 4. HTML and CSS
 
 **Thing I want to learn/ do:**
-- [] Leanr how to play the piano
+- [] Learn how to play the piano
 - [] Go skydiving
 - [] Go to a music festival
 
