@@ -22,9 +22,9 @@ My favorite Git command is:
 4. HTML and CSS
 
 **Thing I want to learn/ do:**
-- [] Learn how to play the piano
-- [] Go skydiving
-- [] Go to a music festival
+- [ ] Learn how to play the piano
+- [ ] Go skydiving
+- [ ] Go to a music festival
 
 
 For more information about me, you can visit my [website](https://amquach00.github.io/portfolio/) that's still a work in progress.
