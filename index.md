@@ -1,6 +1,6 @@
 # Amanda Quach
 
-[Picture of Me!][picture.md]
+[Picture of Me!](picture.md)
 
 ## - About me -
 > I'm a third year Computer Science major from Warren College
